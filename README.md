@@ -43,11 +43,16 @@ of active use in the field.
   ROI tracking
 - Optimisation: data-driven adjustments every 30 days
 
-### Section 4 — Results & Case Studies
-- Email nurture flows: 35% average conversion rate
-- Social media engagement: 40% average increase
-- Operational cost reduction: 30% (Royal Eventos SOPs)
-- Lead acquisition growth: 40% (FedEx & GBoxMall)
+### Section 4 —  Results from MMarketing Client Work
+
+- Email nurture flows: **35% average conversion rate** 
+  across client campaigns
+- Social media engagement: **40% average increase** 
+  across client portfolios
+- Market research projects: **4 feasibility studies** 
+  delivered on time and on budget
+- Client retention: **10+ years** of ongoing B2B 
+  client relationships
 
 ### Section 5 — Investment & Next Steps
 - Service tiers and pricing framework
